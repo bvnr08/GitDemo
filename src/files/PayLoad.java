@@ -36,4 +36,10 @@ public class PayLoad {
 		return payLoad;
 	}
 
+	
+	public void getData() {
+		System.out.println("rest git demo");
+		System.out.println("rest git demo2");
+		
+	}
 }
